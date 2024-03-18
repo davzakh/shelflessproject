@@ -1,5 +1,7 @@
 <h3>Final Project for Ecommerce 4413@YorkU Cloud Deployment Repository</h3>
 
+![shelfless](https://github.com/davzakh/shelflessproject/assets/91906562/42a0fc85-ec0c-421b-bc57-a7318f8ecc13)
+
 This github repository features a Java .WAR archive and Dockerfile using Tomcat 9.0 as the base image for cloud deployment of an ecommerce website using service Render.com.
 The site can be viewed here:
 
